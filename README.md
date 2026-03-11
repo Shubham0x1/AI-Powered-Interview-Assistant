@@ -1,4 +1,4 @@
-# Swipe Internship Assignment — AI-Powered Interview Assistant
+# AI-Powered Interview Assistant
 
 A React-based AI-powered interview assistant designed to simulate real-time interviews for full-stack roles. This app provides both **Interviewee (chat)** and **Interviewer (dashboard)** tabs, keeping data synchronized and persistent.
 
