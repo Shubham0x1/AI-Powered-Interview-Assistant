@@ -90,6 +90,6 @@ This project is for educational/assignment purposes.
 
 ## ✨ Author
 
-```Shubham Gusain```
+Shubham Gusain
 ---
 GitHub: Shubham0x1
