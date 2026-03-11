@@ -88,8 +88,15 @@ Build a React app that acts as an AI-powered interview assistant. Key features i
 
 This project is for educational/assignment purposes.
 
-## ✨ Author
+# 👨‍💻 Author
 
-Shubham Gusain
+**Shubham Gusain**
+
+GitHub:  
+https://github.com/Shubham0x1
+
 ---
-GitHub: Shubham0x1
+
+# ⭐ Support
+
+If you like this project, consider giving the repository a **star ⭐**.
